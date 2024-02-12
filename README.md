@@ -3,6 +3,7 @@
 * [Opis](#opis)
 * [Technologie](#technologie)
 * [Uruchomienie](#uruchomienie)
+* [Demo](#demo)
 * [Autor](#autor)
 * [Dodatek](#dodatek)
  
@@ -31,6 +32,13 @@ Uruchomić kod
 ```bash
 python main.py
 ```
+
+## Demo
+<p>Demonstracja gry:</p>
+
+![D1](/assets/demo1.png)
+![D2](/assets/demo2.png)
+
 ## Autor
 Autorem projektu jest Katarzyna Matuszek
 
