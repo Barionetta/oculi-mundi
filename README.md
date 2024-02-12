@@ -4,9 +4,10 @@
 * [Technologie](#technologie)
 * [Uruchomienie](#uruchomienie)
 * [Autor](#autor)
+* [Dodatek](#dodatek)
  
  ## Opis
-Powyższej znajduje się kod źródłowy prostej strzelanki napisanej w języku Python w ramach kursu Grafika komputerowa i komunikacja człowiek-komputer.
+Powyższej znajduje się kod źródłowy prostej strzelanki napisanej w języku Python w ramach kursu Grafika komputerowa i komunikacja człowiek-komputer. Projekt dzieli się na dwie części: pierwszą z nich stanowi surowa "logika" gry (jak przemieszczają się pociski, gracz i przeciwnik), natomiast druga obsługuje grafikę i jest oparta na silniku z książki "Developing Graphics Frameworks with Python and OpenGL" Lee Stemkoski i Michael Pascale.
 
 
  ## Technologie
@@ -30,6 +31,8 @@ Uruchomić kod
 ```bash
 python main.py
 ```
-
 ## Autor
 Autorem projektu jest Katarzyna Matuszek
+
+## Dodatek
+![Duck](/assets/duck.jpeg)
