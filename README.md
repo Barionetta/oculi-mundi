@@ -20,16 +20,31 @@ Projekt został napisany w całości w języku Python 3 z następującymi biblio
 Aby lokalnie uruchomić projekt, najpierw należy sklonować repozytorium
 
 ``` bash
-git clone https://github.com/bartunio99/Catan.git
+git clone https://github.com/Barionetta/oculi-mundi.git
 ```
-Następnie zainstalować wymagane biblioteki
+
+Następnie stworzyć wirtualne środowisko o nazwie `oculimundi-dev`
 
 ```bash
-pip install -r requirements.txt
+conda create --name oculimundi-dev python=3.11
 ```
-Uruchomić kod
+
+Później należy aktywować środowisko
+
 ```bash
-python main.py
+conda activate oculimundi-dev
+```
+
+Na końcu zainstalować wymagane paczki
+
+```bash
+pip install -e .
+```
+
+Kod można uruchomić w następujący sposób:
+
+```bash
+oculimundi
 ```
 
 ## Demo
